@@ -4,6 +4,7 @@ html, body {
 
 h1, h2, a {
   font-family: 'Oswald', sans-serif;
+  color:black;
 }
 
 p {
@@ -24,7 +25,7 @@ p {
 .main h1 {
   font-size: 150px;
   float:centre;
-  color:black;
+  color:white;
 }
 
 .main p {
